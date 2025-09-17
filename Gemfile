@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gemspec
 
 gem "rake", "~> 13.0"
-gem "rexml", "~> 3.2"
+gem "rexml", "~> 3.4"
 
 group :development do
   gem "overcommit", "~> 0.58.0"
